@@ -1,4 +1,9 @@
 <h1 align="center"><b>CodeNews 🖥 🗞</b></h1>
+
+#### Project Board: 
+[Trello](https://trello.com/b/w0GiYk44/codenews-project-board)
+
+# **Description**
 Codenews is a social news platform focusing on computer science, software-engineering, and education. Users can post links to relevant information and articles and then discuss these topics. This allows users to stay up-to-date on current industry trends and news. Users also have access to a Q&A forum where they may post technical questions and gain feedback from other users.
 
 
